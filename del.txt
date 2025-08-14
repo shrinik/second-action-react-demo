@@ -1,0 +1,16 @@
+index.html:Zone.Identifier
+package-lock.json:Zone.Identifier
+package.json:Zone.Identifier
+vite.config.js:Zone.Identifier
+vite.svg:Zone.Identifier
+App.jsx:Zone.Identifier
+index.css:Zone.Identifier
+main.jsx:Zone.Identifier
+logo.png:Zone.Identifier
+HelpArea.css:Zone.Identifier
+HelpArea.jsx:Zone.Identifier
+HelpBox.css:Zone.Identifier
+HelpBox.jsx:Zone.Identifier
+MainContent.jsx:Zone.Identifier
+MainContent.test.jsx:Zone.Identifier
+setup.js:Zone.Identifier
